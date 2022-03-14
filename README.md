@@ -16,4 +16,4 @@ Puede descargar los datos directamente de: https://www.kaggle.com/c/porto-seguro
 
 
 
-Elaborado por Luis Cajachahua, bajo licencia MIT (2021)
+Elaborado por Luis Cajachahua, bajo licencia MIT (2022)
